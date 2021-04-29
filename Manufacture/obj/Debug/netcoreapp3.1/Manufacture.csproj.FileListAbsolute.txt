@@ -1,0 +1,13 @@
+C:\AI\C# codes\Manufacture\Manufacture\bin\Debug\netcoreapp3.1\Manufacture.exe
+C:\AI\C# codes\Manufacture\Manufacture\bin\Debug\netcoreapp3.1\Manufacture.deps.json
+C:\AI\C# codes\Manufacture\Manufacture\bin\Debug\netcoreapp3.1\Manufacture.runtimeconfig.json
+C:\AI\C# codes\Manufacture\Manufacture\bin\Debug\netcoreapp3.1\Manufacture.runtimeconfig.dev.json
+C:\AI\C# codes\Manufacture\Manufacture\bin\Debug\netcoreapp3.1\Manufacture.dll
+C:\AI\C# codes\Manufacture\Manufacture\bin\Debug\netcoreapp3.1\Manufacture.pdb
+C:\AI\C# codes\Manufacture\Manufacture\obj\Debug\netcoreapp3.1\Manufacture.csprojAssemblyReference.cache
+C:\AI\C# codes\Manufacture\Manufacture\obj\Debug\netcoreapp3.1\Manufacture.AssemblyInfoInputs.cache
+C:\AI\C# codes\Manufacture\Manufacture\obj\Debug\netcoreapp3.1\Manufacture.AssemblyInfo.cs
+C:\AI\C# codes\Manufacture\Manufacture\obj\Debug\netcoreapp3.1\Manufacture.csproj.CoreCompileInputs.cache
+C:\AI\C# codes\Manufacture\Manufacture\obj\Debug\netcoreapp3.1\Manufacture.dll
+C:\AI\C# codes\Manufacture\Manufacture\obj\Debug\netcoreapp3.1\Manufacture.pdb
+C:\AI\C# codes\Manufacture\Manufacture\obj\Debug\netcoreapp3.1\Manufacture.genruntimeconfig.cache

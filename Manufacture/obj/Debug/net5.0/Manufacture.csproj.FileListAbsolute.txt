@@ -1,0 +1,12 @@
+C:\AI\C# codes\Manufacture\Manufacture\bin\Debug\net5.0\Manufacture.deps.json
+C:\AI\C# codes\Manufacture\Manufacture\bin\Debug\net5.0\Manufacture.dll
+C:\AI\C# codes\Manufacture\Manufacture\bin\Debug\net5.0\ref\Manufacture.dll
+C:\AI\C# codes\Manufacture\Manufacture\bin\Debug\net5.0\Manufacture.pdb
+C:\AI\C# codes\Manufacture\Manufacture\obj\Debug\net5.0\Manufacture.GeneratedMSBuildEditorConfig.editorconfig
+C:\AI\C# codes\Manufacture\Manufacture\obj\Debug\net5.0\Manufacture.AssemblyInfoInputs.cache
+C:\AI\C# codes\Manufacture\Manufacture\obj\Debug\net5.0\Manufacture.AssemblyInfo.cs
+C:\AI\C# codes\Manufacture\Manufacture\obj\Debug\net5.0\Manufacture.csproj.CoreCompileInputs.cache
+C:\AI\C# codes\Manufacture\Manufacture\obj\Debug\net5.0\Manufacture.dll
+C:\AI\C# codes\Manufacture\Manufacture\obj\Debug\net5.0\ref\Manufacture.dll
+C:\AI\C# codes\Manufacture\Manufacture\obj\Debug\net5.0\Manufacture.pdb
+C:\AI\C# codes\Manufacture\Manufacture\obj\Debug\net5.0\Manufacture.csprojAssemblyReference.cache
